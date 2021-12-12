@@ -1,0 +1,1 @@
+Star hole, Volda, Norway: http://www.skyoye.com/geologypage.html

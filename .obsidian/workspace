@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1134dc91d8a186e7",
+        "id": "bfc7b46931e38998",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Corona/TODO.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#polygonal_masonry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corona/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,17 +74,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "904a8d244b51bc84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1134dc91d8a186e7",
+  "active": "bfc7b46931e38998",
   "lastOpenFiles": [
-    "Corona/TODO.md",
-    "Corona/Untitled.md"
+    "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
+    "Ancient Stuff/Sites/Europe/Norway/__TODO.md",
+    "Ancient Stuff/Sites/Asia/Micronesia/Palau.md",
+    "Ancient Stuff/Ideas/Stone spheres.md",
+    "Ancient Stuff/Sites/Africa/Egypt/Giza/Valley Temple.md",
+    "Ancient Stuff/Sites/Africa/Egypt/Giza/Sphinx.md",
+    "Ancient Stuff/Sites/Africa/Egypt/Giza/Osirion.md",
+    "Ancient Stuff/Sites/Africa/Egypt/Giza/Great Pyramid.md",
+    "Ancient Stuff/Ideas/Precision Stone Fitting.md",
+    "Ancient Stuff/Ideas/Quarrinng methods.md"
   ]
 }

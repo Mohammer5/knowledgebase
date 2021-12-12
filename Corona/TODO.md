@@ -10,3 +10,4 @@
 * https://www.heise.de/tp/features/Impfung-und-Ansteckung-6190192.html
 * https://www.medrxiv.org/content/10.1101/2021.07.08.21260210v1
 * https://ijirms.in/index.php/ijirms/article/view/1100
+* https://www.medrxiv.org/content/10.1101/2021.11.30.21267048v1.full-text
