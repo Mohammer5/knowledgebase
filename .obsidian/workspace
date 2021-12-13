@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "10d0bc6a19b23ec8",
+    "id": "fce8c931a923b667",
     "type": "split",
     "children": [
       {
-        "id": "bfc7b46931e38998",
+        "id": "f481db5d6b9e2760",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.0097370147705
   },
   "right": {
     "id": "96e2cf8301263485",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfc7b46931e38998",
+  "active": "f481db5d6b9e2760",
   "lastOpenFiles": [
     "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
-    "Ancient Stuff/Sites/Europe/Norway/__TODO.md",
-    "Ancient Stuff/Sites/Asia/Micronesia/Palau.md",
-    "Ancient Stuff/Ideas/Stone spheres.md",
-    "Ancient Stuff/Sites/Africa/Egypt/Giza/Valley Temple.md",
-    "Ancient Stuff/Sites/Africa/Egypt/Giza/Sphinx.md",
-    "Ancient Stuff/Sites/Africa/Egypt/Giza/Osirion.md",
-    "Ancient Stuff/Sites/Africa/Egypt/Giza/Great Pyramid.md",
-    "Ancient Stuff/Ideas/Precision Stone Fitting.md",
-    "Ancient Stuff/Ideas/Quarrinng methods.md"
+    "Corona/Opinion/Pandemic of the unvaccinated?.md",
+    "Corona/Information/Impfung/Study - 2021.11.20 - COVID-19 stigmatising the unvaccinated is not justified.md",
+    "Corona/Information/Impfung/Study - 2021.11.19 - Transmission potential of vaccinated and unvaccinated persons infected with the SARS-CoV-2 Delta variant in a federal prison, July—August 2021.md",
+    "Corona/Information/Impfung/Study - 2021.05.21 - The BNT162b2 mRNA vaccine against SARS-CoV-2 reprograms both adaptive and innate immune responses.md",
+    "Corona/Information/Impfung/Study - 2021.07.04 - exponential growth, high prevalence of SARS-CoV-2 and vaccine effectiveness associated with Delta variant in England during May to July 2021.md",
+    "Corona/Information/Gefaehrlichkeit/Article - 2021.07.07 - Corona-Studie aus Mainz - Knapp drei Millionen Deutsche hatten Corona – wissen es aber nicht.md",
+    "Corona/Information/Gefaehrlichkeit/Study - 2021.07.13 - Infection fatality rate of COVID-19 in community-dwelling populations with emphasis on the elderly An overview.md",
+    "Corona/TODO.md",
+    "Corona/Information/Alternative Behandlungen/Study - 2021.03.17 - Early Ambulatory Multidrug Therapy Reduces Hospitalization and Death in High-Risk Patients with SARS-CoV-2 (COVID-19).md"
   ]
 }

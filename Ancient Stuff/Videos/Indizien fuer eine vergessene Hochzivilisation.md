@@ -55,7 +55,7 @@ Erst wenn man versteht, welches Gewicht hier transportiert wurde, kann man einsc
 * Carolina Bays
 * Randall Carlson
 
-## Gobekli Tepe
+## Gobekli Tepe & andere in der Umgebung
 * Ergebnisse von Martin Sweatman (Prehistory Decoded)
 
 ## Sacret geometry
