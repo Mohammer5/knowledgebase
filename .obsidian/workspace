@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f481db5d6b9e2760",
+        "id": "1a18c68bac577bb7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
+            "file": "Ancient Stuff/Videos/A case for a lost civilization.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.0097370147705
+    "width": 297.0009117126465,
+    "collapsed": true
   },
   "right": {
     "id": "96e2cf8301263485",
@@ -68,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
+                "file": "Ancient Stuff/Videos/A case for a lost civilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,26 +90,36 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dd8821c467775d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ancient Stuff/Videos/A case for a lost civilization.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 505.099365234375,
     "collapsed": true
   },
-  "active": "f481db5d6b9e2760",
+  "active": "1a18c68bac577bb7",
   "lastOpenFiles": [
-    "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
-    "Corona/Opinion/Pandemic of the unvaccinated?.md",
-    "Corona/Information/Impfung/Study - 2021.11.20 - COVID-19 stigmatising the unvaccinated is not justified.md",
-    "Corona/Information/Impfung/Study - 2021.11.19 - Transmission potential of vaccinated and unvaccinated persons infected with the SARS-CoV-2 Delta variant in a federal prison, July—August 2021.md",
-    "Corona/Information/Impfung/Study - 2021.05.21 - The BNT162b2 mRNA vaccine against SARS-CoV-2 reprograms both adaptive and innate immune responses.md",
-    "Corona/Information/Impfung/Study - 2021.07.04 - exponential growth, high prevalence of SARS-CoV-2 and vaccine effectiveness associated with Delta variant in England during May to July 2021.md",
-    "Corona/Information/Gefaehrlichkeit/Article - 2021.07.07 - Corona-Studie aus Mainz - Knapp drei Millionen Deutsche hatten Corona – wissen es aber nicht.md",
-    "Corona/Information/Gefaehrlichkeit/Study - 2021.07.13 - Infection fatality rate of COVID-19 in community-dwelling populations with emphasis on the elderly An overview.md",
-    "Corona/TODO.md",
-    "Corona/Information/Alternative Behandlungen/Study - 2021.03.17 - Early Ambulatory Multidrug Therapy Reduces Hospitalization and Death in High-Risk Patients with SARS-CoV-2 (COVID-19).md"
+    "Ancient Stuff/Videos/A case for a lost civilization.md",
+    "Ancient Stuff/Videos/Mammoet_ship-transporter.png",
+    "Ancient Stuff/Sites/Europe/Italy/Amphitheater Alba Fucens.md",
+    "Ancient Stuff/Sites/Asia/Japan/# Nokogiriyama.md",
+    "Ancient Stuff/Sites/Asia/Japan 1.md",
+    "Ancient Stuff/Sites/Asia/Japan/Pasted image 20211218112629.png",
+    "Ancient Stuff/Sites/Asia/Japan/Pasted image 20211218112917.png",
+    "Ancient Stuff/Sites/Asia/Japan.md",
+    "Ancient Stuff/Sites/Europe/Germany/Lautertal-Reichenbach.md",
+    "Ancient Stuff/Sites/Asia/Lebanon/Baalbek.md"
   ]
 }

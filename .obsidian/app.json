@@ -1,3 +1,15 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "absolute"
 }

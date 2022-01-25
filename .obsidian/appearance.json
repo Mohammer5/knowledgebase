@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "hide_images_in_sidebar"
+  ]
 }
