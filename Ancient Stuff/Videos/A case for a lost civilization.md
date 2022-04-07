@@ -23,7 +23,7 @@ replicate.
 Before we dive into some examples, I would like to show how we're carrying out
 some of the most difficult tasks in our modern civilization and compare the
 technical requirements that we have to fulfill today in order to execute these
-challenge.
+challenges.
 
 ---
 
@@ -42,7 +42,7 @@ an estonishing 884 tons.
 ![](./Mammoet_vehicles.png)
 [Source](https://www.youtube.com/watch?v=0Q3TjQ4IpiU)
 
-In order to transport such a heavy object, it hat to be carried by two special
+In order to transport such a heavy object, it had to be carried by two special
 vehicles, which distributed the weight to around 200 wheels each. Besides
 moving such a weight, another challenge is lifting and lowering the splitter
 which we can only do with electrically powered specialized heavy duty machines.
@@ -142,8 +142,8 @@ big megalith, stones are cut into pieces and then re-assembled later.
 In modern times, we use electrically powered machines that leave distinct
 toolmarks. What these marks look like varies from machine to machine as the
 toolmarks vary in size and different techniques must have been applied. Some
-machines drill into stone while others cut stone with huge circular or swing
-saws.
+machines drill into stone while others cut stone with a huge circular or swing
+saw.
 
 ---
 
@@ -172,7 +172,7 @@ large scale.
 
 When looking at modern quarries like this one, we can see that the machines we
 used leave distinct tool marks of which one could say, that it's obvious that
-we used machines. Nothing on this structures indicates that the stones has been
+we used machines. Nothing on these structures indicates that the stones have been
 work on with primitive hand tools like hammers and chisels.
 
 ---
@@ -182,7 +182,7 @@ work on with primitive hand tools like hammers and chisels.
 Many examples that are being highlighted when talking about ancient megaliths
 and stone work show perfectly cut stones of all kinds and sizes. But
 surprisingly we also find many stones that still have toolmarks on them.
-Besides the megaliths themselves we also know of many ancient quarries where
+Besides the megaliths themselves we also know of many ancient quarries, where
 the stones have been excavated from.
 
 ---
@@ -205,7 +205,7 @@ worked on.
 [Source](https://www.youtube.com/watch?v=6mT9OCCVwBw)
 
 More tool marks can be found on the stone of the pregnant woman on the
-remaining rock that still underneath the megalith. When examining the tool
+remaining rock that is still underneath the megalith. When examining the tool
 marks closely, it's clear that these marks could not have been produced with
 the tools of the people who we attribute with having worked on these stones.
 The angled cuts in this particular example are too symmetrical for having been
@@ -233,35 +233,60 @@ indeed, we can find these tool marks all around the globe.
 This picture has been taken at the Kailasa temple in India. The temple has been
 carved straight out of the bedrock and was finished to a jaw-dropping level of
 precision, covered with details that would challenge us with our modern tools
-even today.
+even today. But we don't have any clues about how this temple has been built.
 
 ---
 
-![](./Kailasa_temple_toolmarks.png)
-[Source](https://goo.gl/maps/ovqjPFQvH3s3pCFV9)
+![](./S-TN-71_Vettuvan_Koil_Tuticorin.jpg)
+[Source](https://commons.wikimedia.org/wiki/File:S-TN-71_Vettuvan_Koil_Tuticorin.jpg)
 
-But in this case, it's not the temple that we're going to take a look at but
-the enclosure itself as it has not been finished like the temple and tool marks
-are still visible and exhibit parallel, long lines which do not reseble
-anything that would've been left by using primitive technology.
+Luckily there's another temple called Vettuvan Koil in the South of India. It's
+not as big as the Kailasa temple but it's been carved straight out of the rock
+as well. For some reason the work on the temple has been stopped so that we can
+still see toolmarks today.
+
+---
+
+![](./Vettuvan_Kovil.jpg)
+[Source](https://commons.wikimedia.org/wiki/File:Vettuvan_Kovil_(3).jpg)
+
+The toolmarks look surprisingly similar to the ones that we can see in Baalbek.
+And they certainly don't look like they were made with hammers and chissels.
+
+---
+
+![](./Vettuvan_Kovil_inside.jpg)
+[Source](https://goo.gl/maps/TaVs7Z3EVg3a53Xw9)
+
+On the inside we can see the toolmarks on the walls which are quite different
+from the toolmarks on the outside, indicating that for the rougher work, they
+used different tools.
+
+---
+
+![](./Vettuvan_Kovil_toolmarks_figures.jpg)
+[Source](https://goo.gl/maps/sdcKGA8RXvbBcT4E8)
+
+The tools on the outside could be handled well enough to carve away the stone
+between the high relief figures.
 
 ---
 
 ![](./Toolmarks_Felsenmeer.png)
 [Source](https://www.indiana-stones.de/s/cc_images/cache_59302303.jpg)
 
-Even Germany has stones with these kinds of toolmarks on a site called
-Felsenmeer, which translates to boulder ocean. Several pieces of rock can be
-found there that have ancient machine tool marks as well as a column, with
-toolmarks, too, of course.
+Even Germany has stones with toolmarks on a site called Felsenmeer, which
+translates to boulder ocean. Several pieces of rock can be found there that
+have ancient machine tool marks as well as a column, with toolmarks, too, of
+course.
 
 ---
 
 ![](./Saw_toolmarks_Felsenmeer.png)
 [Source](https://www.youtube.com/watch?v=GnQESXFVloo)
 
-The most intruiging stone that can be found is this one though as it displays
-both rough machine marks at the top as well as a surface that appears to have
+The most intruiging stone that can be found, is this one though, as it displays
+both rough machine marks at the top, as well as a surface that appears to have
 been cut with a saw. The striations and grooves are still visible, especially
 when the stone is wet.
 
@@ -271,7 +296,7 @@ when the stone is wet.
 [Source](https://youtu.be/6KUDu40BC5o?t=1297)
 
 Egypt is one of the best sources for these precision cutting tool marks as many
-examples can be found in many of the sites. This stone must have been cut with
+examples can be found at many of the sites. This stone must have been cut with
 an enormous circular or swing saw. Modern machines of this size can vary in
 thickness but none of them are as thin as the one that's been used here. The
 rounded edge indicates that the tip of the saw must've been only a couple of

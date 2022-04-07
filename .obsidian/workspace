@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ancient Stuff/Videos/A case for a lost civilization.md",
+            "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.0009117126465,
-    "collapsed": true
+    "width": 297.0009117126465
   },
   "right": {
     "id": "96e2cf8301263485",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient Stuff/Videos/A case for a lost civilization.md",
+                "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ancient Stuff/Videos/A case for a lost civilization.md"
+                "file": "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md"
               }
             }
           }
@@ -111,15 +110,15 @@
   },
   "active": "1a18c68bac577bb7",
   "lastOpenFiles": [
+    "Ancient Stuff/Videos/Indizien fuer eine vergessene Hochzivilisation.md",
+    "Ancient Stuff/Ideas/Precision Stone Fitting.md",
+    "Corona/Opinion/Pandemic of the unvaccinated?.md",
+    "Ancient Stuff/Sites/Europe/Norway/__TODO.md",
+    "Ancient Stuff/Sites/Asia/Albania/Illyria.md",
+    "Ancient Stuff/Sites/Asia/Micronesia/Palau.md",
     "Ancient Stuff/Videos/A case for a lost civilization.md",
     "Ancient Stuff/Videos/Mammoet_ship-transporter.png",
     "Ancient Stuff/Sites/Europe/Italy/Amphitheater Alba Fucens.md",
-    "Ancient Stuff/Sites/Asia/Japan/# Nokogiriyama.md",
-    "Ancient Stuff/Sites/Asia/Japan 1.md",
-    "Ancient Stuff/Sites/Asia/Japan/Pasted image 20211218112629.png",
-    "Ancient Stuff/Sites/Asia/Japan/Pasted image 20211218112917.png",
-    "Ancient Stuff/Sites/Asia/Japan.md",
-    "Ancient Stuff/Sites/Europe/Germany/Lautertal-Reichenbach.md",
-    "Ancient Stuff/Sites/Asia/Lebanon/Baalbek.md"
+    "Ancient Stuff/Sites/Asia/Japan/# Nokogiriyama.md"
   ]
 }

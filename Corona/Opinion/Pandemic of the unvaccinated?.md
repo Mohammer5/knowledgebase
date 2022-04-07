@@ -1,4 +1,4 @@
-# My reasoning for not having been vaccinated yet
+# Pandemic of the unvaccinated?
 
 According to popular belief, the sources of infections are primarily the unvaccinated. Even governments and mainstream media are sharing and propagating this opinion as if it was a scientific fact with no serious debate about it. It's being portraied as if only fringe opinions and pseudoscience refute to accept this truth.
 
@@ -57,7 +57,7 @@ The article ["On the efficacy of influenza and COVID-19 vaccines"](https://multi
 > [It] is important to understand that **the relative risk reduction is only partially related to the absolute risk reduction**. If, in the example above, the absolute risk reduction in the vaccinated as well as in the control group had been ten times smaller, i.e. 0.16 percent and 0.79 percent instead of 1.6 and 7.9 percent, the absolute risk reduction would only have been 0.63 percent and [...] the relative risk reduction of almost 80 percent would have remained the same.
 
 The key take-aways are:
-* The absolute efficacy take the size of the groups into account
+* The absolute efficacy takes the size of the groups into account
 * The relative efficacy only compares the absolute risk of the vaccinated group with the control group
 
 That means that the relative efficacy has no meaning without the absolute effectiveness, especially when considering how many people have to get vaccinated to prevent a case (not death!).
